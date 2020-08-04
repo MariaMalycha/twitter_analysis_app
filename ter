@@ -1,0 +1,29 @@
+[33mcommit 4d19d51ea47018ff8cb98ce25b22a70202f8507a[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: MariaMalycha <malycha.mmm@gmail.com>
+Date:   Tue Aug 4 21:23:54 2020 +0200
+
+    git ignore
+
+[33mcommit 717e281e2cae171ad3d9ca0a56665757f124f317[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: MariaMalycha <malycha.mmm@gmail.com>
+Date:   Tue Aug 4 21:06:13 2020 +0200
+
+    some security settings
+
+[33mcommit d0491caaf57619c55d2349ee2208adf9b666650d[m
+Author: MariaMalycha <malycha.mmm@gmail.com>
+Date:   Tue Aug 4 21:04:18 2020 +0200
+
+    added gitignore
+
+[33mcommit b197546700cc8dc72f0a331e105fe1b116fe3ffc[m
+Author: MariaMalycha <malycha.mmm@gmail.com>
+Date:   Tue Aug 4 20:51:18 2020 +0200
+
+    gitignored
+
+[33mcommit d47db11f483a530b5e6077ff289170947214c00a[m
+Author: MariaMalycha <malycha.mmm@gmail.com>
+Date:   Tue Aug 4 20:21:38 2020 +0200
+
+    tweeter sentiment analyser app
